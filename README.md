@@ -23,6 +23,7 @@ Ovarian cancer is a significant health concern, and early detection is critical 
 
 ## Folder Structure
 
+```
 OC
 │
 ├── src_python
@@ -38,6 +39,7 @@ OC
 |
 └── src_R
     └── (R files used for Mendelian Randomisation analyses)
+```
 
 ## Getting Started
 
